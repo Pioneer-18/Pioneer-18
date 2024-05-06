@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Pioneer-18
-- 👀 I’m interested in Cybersecurity and software development .
+- 👀 I’m interested in Cybersecurity and Software development .
 - 🌱 I’m currently learning cybersecurity topics.
 - 💞️ I’m looking to collaborate on web development and cybersecurity related projects.
-- 📫 How to reach me through mail athira78nair2gmail.com
+- 📫 How to reach me through mail athira78nair@gmail.com
 - 😄 Pronouns: she
 - ⚡ Fun fact: dark horse 
 
